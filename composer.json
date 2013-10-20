@@ -18,13 +18,7 @@
         "cleentfaar/jquery-bundle": ">=1.7"
     },
     "autoload": {
-        "psr-0": { "Cleentfaar\\Bundle\\BootstrapBundle": "" }
+        "psr-0": { "Cleentfaar\\Bundle\\Select2Bundle": "" }
     },
-    "target-dir": "Cleentfaar/Bundle/BootstrapBundle",
-    "extra": {
-        "branch-alias": {
-            "dev-3.0": "3.0.x-dev",
-            "dev-master": "3.0.x-dev"
-        }
-    }
+    "target-dir": "Cleentfaar/Bundle/Select2Bundle"
 }
