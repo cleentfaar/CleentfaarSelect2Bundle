@@ -1,4 +1,4 @@
 CleentfaarBootstrapBundle
 =========================
 
-Symfony2 Bundle for integrating Twitter's Bootstrap Framework
+Symfony2 Bundle for integrating the Select2 jQuery plugin
